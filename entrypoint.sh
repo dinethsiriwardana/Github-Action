@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from Dineth :D"
+echo "Hello World from Github-Action :D"
